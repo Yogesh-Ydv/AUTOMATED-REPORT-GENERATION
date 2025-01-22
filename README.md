@@ -73,3 +73,6 @@ This task can be useful in many fields:
 
 *Wrap-Up*
 Automated Report Generation showcased how Python can automate the entire process of data analysis and report creation. By using libraries like Pandas, Matplotlib, Seaborn, and FPDF, I was able to create a straightforward and effective method for building professional reports. The tools and techniques used here can easily be adapted to many other fields, making this task very useful and flexible.
+
+*OUTPUT*
+[weather_report.pdf](https://github.com/user-attachments/files/18510362/weather_report.pdf)
